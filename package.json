@@ -7,7 +7,7 @@
     "CLI"
   ],
   "dependencies": {
-    "reconf": "0.1.x",
+    "nconf": "0.4.x",
     "colors": "0.5.x",
     "optimist": "0.2.x",
     "prompt": "0.1.x",
