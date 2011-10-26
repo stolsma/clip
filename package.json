@@ -7,7 +7,7 @@
     "CLI"
   ],
   "dependencies": {
-    "nconf": "0.4.x",
+    "nconf": "git://github.com/stolsma/nconf.git#get-patch",
     "colors": "0.5.x",
     "optimist": "0.2.x",
     "prompt": "0.1.x",
